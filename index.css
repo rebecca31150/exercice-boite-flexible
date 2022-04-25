@@ -2,7 +2,14 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color :aliceblue ;
     background-color: blueviolet;
-
-
-
+    text-align: center;
+    font-size: 50px;
+    flex-basis: 150px;
+    height: 150px;
+    margin: 20px;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
